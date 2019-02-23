@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="FirebaseXamarinTest.Views.PhoneNumberPage">
+    <ContentPage.Content>
+        <StackLayout Orientation="Vertical" Padding="40">
+
+            <Entry Placeholder="Phone Number" x:Name="txtPhoneNumber" HorizontalOptions="FillAndExpand" Keyboard="Numeric"/>
+            <Button Text="Receive Push Notification" Clicked="ReceivePushNotification_Clicked" HeightRequest="50" HorizontalOptions="Center"/>
+           
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

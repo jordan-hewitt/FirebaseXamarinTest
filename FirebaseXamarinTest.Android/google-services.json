@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "578876144319",
+    "firebase_url": "https://fir-xamarintest-626a4.firebaseio.com",
+    "project_id": "fir-xamarintest-626a4",
+    "storage_bucket": "fir-xamarintest-626a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578876144319:android:73f60f9f43301eaf",
+        "android_client_info": {
+          "package_name": "com.Hewittware.FirebaseXamarinTest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578876144319-cn12arfhlbe184vhr8h5vku7g56i0fgp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz4gPwbscra-97vNhDng4-sVbbY4thIaQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
